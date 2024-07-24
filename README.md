@@ -1,4 +1,4 @@
-# ✏️ 우아한 타입스크립트 with 리액트 스터디
+# ✏️ 우아한 타입스크립트 with 리액트 스터디 
 
 <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791169211567.jpg" width="360" height="450">
 
