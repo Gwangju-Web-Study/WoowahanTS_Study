@@ -12,19 +12,22 @@
 <td align="center"><img src="https://github.com/Clt689/ModernJS_Deepdive/assets/115773895/cb61a4ec-4823-42c0-a311-37d8e9dfce6f" width="150" /></td>
 <td align="center"><img src="https://github.com/Clt689/ModernJS_Deepdive/assets/115773895/283a3aa0-9107-4e49-935b-ae1c06ba4e5e" width="150" /></td>
 <td align="center"><img src="https://github.com/Clt689/ModernJS_Deepdive/assets/122369935/67a159cc-ce9b-4a1a-b2b7-9e56a886b096" width="150" /></td>
-<td align="center"><img src="https://github.com/Clt689/ModernJS_Deepdive/assets/115773895/1f9ea4e9-61dd-4d17-b339-4a2e0dc75f70" width="150" /></td> 
+<td align="center"><img src="https://github.com/Clt689/ModernJS_Deepdive/assets/115773895/1f9ea4e9-61dd-4d17-b339-4a2e0dc75f70" width="150" /></td>
+<td align="center"><img src="https://avatars.githubusercontent.com/u/70461991?v=4" width="150" /></td>  
 </tr>
 <tr>
 <th align="center">이한빈</th>
 <th align="center">양민준</th>
 <th align="center">이현성</th>
 <th align="center">정신애</th>
+<th align="center">백승인</th>
 </tr>
 <tr>
 <td align="center" width="170"><a href="https://github.com/Clt689">@Clt689</a></td>
 <td align="center" width="170"><a href="https://github.com/gwangminju">@gwangminjun</a></td>
 <td align="center" width="170"><a href="https://github.com/hyeonseong2023">@hyeonseong2023</a></td>
 <td align="center" width="170"><a href="https://github.com/fe-Jay">@Jay</a></td>
+<td align="center" width="170"><a href="https://github.com/BaekWeb">@BeakWeb</a></td>
 </tr>
 </tbody>
 </table>
