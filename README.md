@@ -52,7 +52,7 @@
   - branch : main
   - commit message : 📚: [2장] 타입 - 이한빈
 - 챕터의 담당자를 제외한 나머지 스터디원은 문제를 준비합니다.
-  - [GitHub issue](https://github.com/Clt689/woowahanTS_Study/issues)로 해당 챕터의 label을 적용하여 문제를 작성합니다. 양식은 제공되는 템플릿을 준수합니다.
+  - [GitHub issue](https://github.com/Gwangju-Web-Study/WoowahanTS_Study/issues)로 해당 챕터의 label을 적용하여 문제를 작성합니다. 양식은 제공되는 템플릿을 준수합니다.
   - 문제는 **스터디 진행 전날부터 진행 직전까지 등록**합니다.
   - 문제 출제자를 제외한 나머지 스터디원은 문제가 등록된 시점부터 스터디 진행 30분 시점까지 문제에 대한 답안을 답변으로 작성합니다.
 
