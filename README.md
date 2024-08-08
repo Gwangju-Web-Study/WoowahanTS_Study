@@ -24,7 +24,7 @@
 </tr>
 <tr>
 <td align="center" width="170"><a href="https://github.com/Clt689">@Clt689</a></td>
-<td align="center" width="170"><a href="https://github.com/gwangminju">@gwangminjun</a></td>
+<td align="center" width="170"><a href="https://github.com/gwangminjun">@gwangminjun</a></td>
 <td align="center" width="170"><a href="https://github.com/hyeonseong2023">@hyeonseong2023</a></td>
 <td align="center" width="170"><a href="https://github.com/fe-Jay">@Jay</a></td>
 <td align="center" width="170"><a href="https://github.com/BaekWeb">@BaekWeb</a></td>
