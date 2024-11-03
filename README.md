@@ -9,18 +9,18 @@
 <tbody>
 
 <tr>
-<td align="center"><img src="https://github.com/Clt689/ModernJS_Deepdive/assets/115773895/cb61a4ec-4823-42c0-a311-37d8e9dfce6f" width="150" /></td>
 <td align="center"><img src="https://github.com/Clt689/ModernJS_Deepdive/assets/115773895/283a3aa0-9107-4e49-935b-ae1c06ba4e5e" width="150" /></td>
 <td align="center"><img src="https://github.com/Clt689/ModernJS_Deepdive/assets/122369935/67a159cc-ce9b-4a1a-b2b7-9e56a886b096" width="150" /></td>
 <td align="center"><img src="https://github.com/Clt689/ModernJS_Deepdive/assets/115773895/1f9ea4e9-61dd-4d17-b339-4a2e0dc75f70" width="150" /></td>
-<td align="center"><img src="https://avatars.githubusercontent.com/u/70461991?v=4" width="150" /></td>  
+<!-- <td align="center"><img src="https://github.com/Clt689/ModernJS_Deepdive/assets/115773895/cb61a4ec-4823-42c0-a311-37d8e9dfce6f" width="150" /></td> -->
+<!-- <td align="center"><img src="https://avatars.githubusercontent.com/u/70461991?v=4" width="150" /></td>   -->
 </tr>
 <tr>
-<th align="center">이한빈</th>
 <th align="center">양민준</th>
 <th align="center">이현성</th>
 <th align="center">정신애</th>
-<th align="center">백승인</th>
+<!-- <th align="center">이한빈</th> -->
+<!-- <th align="center">백승인</th> -->
 </tr>
 <tr>
 <td align="center" width="170"><a href="https://github.com/Clt689">@Clt689</a></td>
@@ -59,33 +59,18 @@
 - 해당 주 수요일에 투표를 마감하여 참여인원 확정 및 스터디 진행여부 결정
 - 스터디 참여자가 2인 이하인 경우 진행 해보고 진행할지 결정
 
-#### 역할분담
+### 회차 담당자
+- 회차 담당자는 **스터디 진행 전**까지 자신만의 방식으로 내용 정리를 진행합니다.
+- 정리본은 자유롭게 준비하고, 제목은 담당자의 이름입니다.
+- 챕터 명으로 만들어진 폴더에 업로드합니다. (ex. [2장] 타입/이한빈.md)
+- 담당자가 아닌 스터디원은 업로드하지 않습니다. 회차 담당자는 발표를 따로 진행하지는 않습니다.
+- branch : main
+- commit message : 📚: [2장] 타입 - 이한빈
+
+### 역할분담
 - 정신애 : 회비관리 , 장소관리
 - 양민준 : 일정관리 , git 관리 , 인원관리
 - 이현성 : notion 관리
-- 백승인 : 
-
-## 📣 스터디 진행 📣
-### 역할1. 회차 담당자🌟
-- 회차 담당자는 **스터디 진행 전**까지 자신만의 방식으로 내용 정리를 진행합니다.
-  - 정리본은 자유롭게 준비하고, 제목은 담당자의 이름입니다.
-  - 챕터 명으로 만들어진 폴더에 업로드합니다. (ex. [2장] 타입/이한빈.md)
-  - 담당자가 아닌 스터디원은 업로드하지 않습니다. 회차 담당자는 발표를 따로 진행하지는 않습니다.
-  - branch : main
-  - commit message : 📚: [2장] 타입 - 이한빈
-
-
-### 역할2. 스터디원👨‍👩‍👧‍👦
-- **회차 담당자를 포함**한 모든 스터디원은 각자 1문제씩 준비합니다.
-  - [GitHub issue](https://github.com/Gwangju-Web-Study/WoowahanTS_Study/issues)로 해당 챕터의 label을 적용하여 문제를 작성합니다. 양식은 제공되는 템플릿을 준수합니다.
-  - 문제는 **해당 회차 주 금요일까지 등록**합니다. (최대한 빨리 등록)
-  - 모든 스터디원은 Git issue에 문제가 등록된 시점부터, 스터디 진행 전까지 문제에 대한 답안을 답변으로 작성합니다.
-  - 본인이 준비한 문제에 대한 출제 의도와 해당 문제에 대한 답변을 본인이 준비해옵니다.
-
-
-### 스터디 진행 순서
-  - 아이스 브레이킹 및 간단히 자유롭게 이야기를 나눈 후, 회차 담당자의 주도 하에 문제 출제 순서대로 리뷰 및 Q&A를 진행합니다.
-  - 본인이 출제한 문제에 대해 다른 스터디원들의 답변 및 리뷰가 모두 끝나면, 출제자가 issue closed를 눌러 해당 이슈를 종료합니다.
 
 </div>
 <br />
